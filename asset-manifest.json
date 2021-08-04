@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CryptoRate/static/css/main.8ec0cb3a.chunk.css",
+    "main.js": "/CryptoRate/static/js/main.ea04a0ac.chunk.js",
+    "main.js.map": "/CryptoRate/static/js/main.ea04a0ac.chunk.js.map",
+    "runtime-main.js": "/CryptoRate/static/js/runtime-main.47e5ec17.js",
+    "runtime-main.js.map": "/CryptoRate/static/js/runtime-main.47e5ec17.js.map",
+    "static/js/2.a410c06e.chunk.js": "/CryptoRate/static/js/2.a410c06e.chunk.js",
+    "static/js/2.a410c06e.chunk.js.map": "/CryptoRate/static/js/2.a410c06e.chunk.js.map",
+    "index.html": "/CryptoRate/index.html",
+    "static/css/main.8ec0cb3a.chunk.css.map": "/CryptoRate/static/css/main.8ec0cb3a.chunk.css.map",
+    "static/js/2.a410c06e.chunk.js.LICENSE.txt": "/CryptoRate/static/js/2.a410c06e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47e5ec17.js",
+    "static/js/2.a410c06e.chunk.js",
+    "static/css/main.8ec0cb3a.chunk.css",
+    "static/js/main.ea04a0ac.chunk.js"
+  ]
+}
